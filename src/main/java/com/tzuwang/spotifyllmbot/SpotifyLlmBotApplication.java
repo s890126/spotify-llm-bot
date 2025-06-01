@@ -1,4 +1,4 @@
-package com.tzuwang.spotify_llm_bot;
+package com.tzuwang.spotifyllmbot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
